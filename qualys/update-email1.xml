@@ -1,0 +1,21 @@
+<ServiceRequest>
+ <data>
+ <WasScanSchedule>
+ <notification>
+ <active>true</active>
+ <delay>
+ <nb>4</nb>
+ <scale>DAY</scale>
+ </delay>
+ <recipients>
+ <set>
+<EmailAddress><![CDATA[gregtaylor999@gmail.com]]></EmailAddress>
+ </set>
+ </recipients>
+ <message><![CDATA[The schedule notification
+message]]></message>
+ </notification>
+ </WasScanSchedule>
+ </data>
+ <sendMail>true</sendMail>
+</ServiceRequest>

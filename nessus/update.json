@@ -1,0 +1,15 @@
+    {
+        "uuid": {54},
+        "settings": {
+            "name": {Test},
+            "description": {Test},
+            "emails": {greg.taylor@aenetworks.com},
+            "enabled": {true},
+            "launch": {string},
+            "folder_id": {51},
+            "policy_id": {45},
+            "scanner_id": {38},
+            "text_targets": {172.16.26.3, 172.16.10.13},
+            "use_dashboard": {true}
+        }
+    }

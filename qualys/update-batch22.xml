@@ -1,0 +1,16 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+ <name><![CDATA[Schedule2]]></name>
+ <url><![CDATA[http://qa.planethistory.com]]></url>
+ <attributes>
+           <set>
+              <Attribute>
+                 <name>Custom key 1</name>
+                 <value><![CDATA[Ubuntu Linux 2.6]]></value>
+              </Attribute>
+           </set>
+  </attributes>
+ </WebApp>
+ </data>
+</ServiceRequest>

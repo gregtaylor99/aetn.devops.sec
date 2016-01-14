@@ -1,0 +1,17 @@
+<ServiceRequest>
+  <data>
+   <WebApp>
+       <name><![CDATA[Custom Attribute via API]]></name>
+       <url><![CDATA[http://funkytown.vuln.qa.qualys.com:80/updated_web_a
+pp_name/]]></url>
+       <attributes>
+           <set>
+              <Attribute>
+                 <name>Custom key 1</name>
+                 <value><![CDATA[Ubuntu Linux 2.6]]></value>
+              </Attribute>
+           </set>
+        </attributes>
+    </WebApp>
+   </data>
+</ServiceRequest>

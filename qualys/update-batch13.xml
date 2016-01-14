@@ -1,0 +1,8 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+ <name><![CDATA[Schedule3]]></name>
+ <url><![CDATA[http://qa.oakislanddig.history.com]]></url>
+ </WebApp>
+ </data>
+</ServiceRequest>

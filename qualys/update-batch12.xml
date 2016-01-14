@@ -1,0 +1,8 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+ <name><![CDATA[Schedule2]]></name>
+ <url><![CDATA[http://dev.duckdynastyquiz.aetv.com]]></url>
+ </WebApp>
+ </data>
+</ServiceRequest>

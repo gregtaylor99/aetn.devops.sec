@@ -1,0 +1,6 @@
+<ServiceRequest>
+ <filters>
+ <Criteria field="tagName" operator="EQUALS">To
+Delete</Criteria>
+ </filters>
+</ServiceRequest>

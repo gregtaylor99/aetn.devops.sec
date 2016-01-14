@@ -1,0 +1,25 @@
+<ServiceRequest>
+ <data>
+ <WasScanSchedule>
+ <name><![CDATA[My Scan Schedule]]></name>
+<type>VULNERABILITY</type>
+ <scheduling>
+ <cancelAfterNHours>7</cancelAfterNHours>
+ <startDate>2015-09-30T13:11:00Z</startDate>
+ <occurrenceType>ONCE</occurrenceType>
+ </scheduling>
+ <target>
+ <webApp>
+ <id>16537651</id>
+ </webApp>
+ <scannerAppliance>
+ <type>EXTERNAL</type>
+ </scannerAppliance>
+ <cancelOption>DEFAULT</cancelOption>
+ </target>
+ <profile>
+ <id>211017</id>
+ </profile>
+ </WasScanSchedule>
+ </data>
+</ServiceRequest>

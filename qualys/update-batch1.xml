@@ -1,0 +1,8 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+ <name><![CDATA[Schedule1]]></name>
+ <url><![CDATA[http://qa.aetv.com]]></url>
+ </WebApp>
+ </data>
+</ServiceRequest>

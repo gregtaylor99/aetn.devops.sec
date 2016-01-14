@@ -1,0 +1,9 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+ <name><![CDATA[My Web App]]></name>
+ <url><![CDATA[http://qa.history.com]]></url>
+ <config><cancelScansAt>22:00</cancelScansAt></config>
+ </WebApp>
+ </data>
+</ServiceRequest>

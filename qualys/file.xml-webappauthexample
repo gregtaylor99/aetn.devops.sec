@@ -1,0 +1,15 @@
+<ServiceRequest>
+  <data>
+    <WebApp>
+      <name><![CDATA[My Web Application]]></name>
+      <url><![CDATA[http://qa.history.com]]></url>
+      <authRecords>
+        <set>
+          <WebAppAuthRecord>
+            <id>15764832</id>
+          </WebAppAuthRecord>
+        </set>
+     </authRecords>
+    </WebApp>
+  </data>
+</ServiceRequest>

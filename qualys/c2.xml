@@ -1,0 +1,17 @@
+<ServiceRequest>
+ <data>
+ <WebApp>
+   <name><![CDATA[qa4.aetv.com]]></name>
+   <url><![CDATA[http://qa1.aetv.com]]></url>
+   <os><![CDATA[Ubuntu / Linux 2.6.*]]></os>
+   <defaultProfile>
+     <id>211017</id>
+     <name><![CDATA[nmtest]]></name>
+   </defaultProfile>
+   <defaultScanner>
+     <type>EXTERNAL</type>
+   </defaultScanner>
+   <malwareMonitoring>false</malwareMonitoring>
+ </WebApp>
+ </data>
+</ServiceRequest>
